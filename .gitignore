@@ -1,0 +1,6 @@
+.DB_Store
+.vscode/
+U1_2_PRUEBA
+**/.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
